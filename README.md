@@ -21,9 +21,8 @@ You can see the live demo of website at [https://fire-code-ten.vercel.app](https
 
 ```bash
 git clone https://github.com/Rahulkottak/FireCode.git
-cd FireCode/server
 npm install
-cd ../client
+cd server
 npm install
 ```
 
